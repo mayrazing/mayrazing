@@ -6,7 +6,6 @@
 
 <br>
 
-- 📍 &nbsp;Based in Helsinki
 - 🔧 &nbsp;5+ years of Java enterprise development experience
 - 🤖 &nbsp;Building complete products with AI — full-stack: frontend, backend & mobile
 - 🌱 &nbsp;Currently learning: **German**
