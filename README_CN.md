@@ -62,3 +62,29 @@
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat-square&logo=istio&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+<br>
+
+### 📊 GitHub 统计
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayrazing&show_icons=true&count_private=true&include_all_commits=true&line_height=21&theme=default" alt="mayrazing's GitHub Stats" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayrazing&hide_langs_below=1&layout=compact&theme=default" alt="常用语言" />
+</p>
+
+<br>
+
+### 📕 最新文章
+<!-- BLOG-LIST:START -->
+<!-- BLOG-LIST:END -->
+
+<br>
+
+### 📬 联系我
+
+<p>
+  <a href="mailto:zzy1099207684@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  &nbsp;
+  <a href="YOUR_LINKEDIN_URL_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
